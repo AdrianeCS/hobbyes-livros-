@@ -1,0 +1,35 @@
+body
+{
+    background-color: crimson;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2? family= Oswald & display=swap');
+ 
+
+
+h1.titulo {
+    color: white;
+}
+
+
+img.img{
+    border: crimson 5px solid;
+  
+}
+
+div.box {
+	
+	display: inline-block;
+    
+}
+
+
+
+p.p {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    
+}
+a.a{
+    color:white;
+}
