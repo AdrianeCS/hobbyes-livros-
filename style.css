@@ -33,3 +33,30 @@ p.p {
 a.a{
     color:white;
 }
+
+.rodape {
+    position: fixed;
+    display: block;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+}
+
+.baixoNaDireita {
+    bottom: 0%;
+    right: 0%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.baixoNaEsquerda {
+    bottom: 0%;
+    left: 0%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+p.direita{
+text-align: right
+colo?white;
+ }  
