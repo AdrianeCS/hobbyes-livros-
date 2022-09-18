@@ -57,6 +57,22 @@ a.a{
 }
 
 p.direita{
-text-align: right
-colo?white;
- }  
+text-align: left;
+color: white;
+}
+
+
+h1.direita{
+text-align: left;
+color: teal; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+img.autores{
+    text-align: center;
+border-right: 10px teal solid ;
+}
+
+h2.direeita{
+    text-align: left;
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;;
+}
